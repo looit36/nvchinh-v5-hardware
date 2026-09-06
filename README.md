@@ -17,7 +17,7 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 ### Bản vẽ Layout 2D
 | Layout Mặt trước (F.Cu + Silk) | Layout Mặt sau (B.Cu + Silk) |
 | :---: | :---: |
-| <img src="images/pcb_top_layout.svg" width="100%" alt="Layout Mặt trước (F.Cu + Silk)"> | <img src="images/pcb_bottom_layout.svg" width="100%" alt="Layout Mặt sau (B.Cu + Silk)"> |
+| ![Layout Mặt trước (F.Cu + Silk)](images/pcb_top_layout.svg) | ![Layout Mặt sau (B.Cu + Silk)](images/pcb_bottom_layout.svg) |
 
 ---
 
