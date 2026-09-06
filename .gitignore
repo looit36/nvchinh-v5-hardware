@@ -1,0 +1,29 @@
+# KiCad temporary and local files
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-bak
+*.lck
+*.tmp
+_autosave-*
+*.kicad_pcb-save
+*.kicad_sch-save
+
+# KiCad cache and local files
+fp-info-cache
+*.net
+minichinh-backups/
+
+# FreeRouting intermediate files
+*.dsn
+*.ses
+
+# DRC / ERC logs
+current_drc.*
+current_erc.*
+erc_report.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
