@@ -23,8 +23,6 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ## Sơ đồ Nguyên lý (Schematic)
 
-Bản vẽ Schematic dưới đây ở định dạng vector SVG sắc nét. Bạn cũng có thể xem/tải toàn bộ tài liệu schematic dạng PDF tại: [minichinh_schematic.pdf](images/minichinh_schematic.pdf).
-
 ### 1. Sơ đồ khối chính (Main Schematic)
 ![Main Schematic](images/minichinh.svg)
 
