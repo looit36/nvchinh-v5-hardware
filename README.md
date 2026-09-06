@@ -4,7 +4,7 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ---
 
-## 📸 Hình ảnh Mạch PCB (3D & 2D Layout)
+## Hình ảnh Mạch PCB (3D & 2D Layout)
 
 ### Phối cảnh 3D (3D Isometric View)
 ![PCB 3D Isometric](images/pcb_3d_iso.png)
@@ -21,10 +21,9 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ---
 
-## 📐 Sơ đồ Nguyên lý (Schematic)
+## Sơ đồ Nguyên lý (Schematic)
 
-> [!NOTE]  
-> Bản vẽ Schematic dưới đây ở định dạng vector SVG sắc nét. Bạn cũng có thể xem/tải toàn bộ tài liệu schematic dạng PDF tại: [minichinh_schematic.pdf](images/minichinh_schematic.pdf).
+Bản vẽ Schematic dưới đây ở định dạng vector SVG sắc nét. Bạn cũng có thể xem/tải toàn bộ tài liệu schematic dạng PDF tại: [minichinh_schematic.pdf](images/minichinh_schematic.pdf).
 
 ### 1. Sơ đồ khối chính (Main Schematic)
 ![Main Schematic](images/minichinh.svg)
@@ -34,7 +33,7 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ---
 
-## ⚙️ Thông số Kỹ thuật Phần cứng
+## Thông số Kỹ thuật Phần cứng
 
 | Thành phần | Chi tiết linh kiện | Chức năng |
 | :--- | :--- | :--- |
@@ -49,7 +48,7 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ---
 
-## 📁 Cấu trúc Thư mục
+## Cấu trúc Thư mục
 
 ```text
 minichinh/
@@ -75,10 +74,10 @@ minichinh/
 
 ---
 
-## 🚀 Hướng dẫn Sử dụng
+## Hướng dẫn Sử dụng
 
 1. **Mở dự án:**
-   - Cài đặt [KiCad](https://www.kicad.org/) phiên bản 8.0 hoặc 9.0 trở lên.
+   - Cài đặt KiCad phiên bản 8.0 hoặc 9.0 trở lên.
    - Mở file `minichinh.kicad_pro` để truy cập sơ đồ nguyên lý và layout PCB.
 2. **Gia công mạch (PCB Manufacturing):**
    - Bộ file Gerber nén và đầy đủ các lớp đã được tạo sẵn trong thư mục [`geber/`](geber/). Có thể gửi trực tiếp cho các nhà sản xuất PCB (JLCPCB, PCBWay, v.v.).
