@@ -6,27 +6,25 @@ Dự án thiết kế mạch điều khiển robot dò mê cung (Micromouse) s�
 
 ## Hình ảnh Mạch PCB (3D & 2D Layout)
 
-### Phối cảnh 3D (3D Isometric View)
+### Phối cảnh 3D
 ![PCB 3D Isometric](images/pcb_3d_iso.png)
 
-### Mặt trước & Mặt sau PCB (3D Render)
-| Mặt trên (Top View) | Mặt dưới (Bottom View) |
+| Mặt trên | Mặt dưới |
 | :---: | :---: |
 | ![PCB Top 3D](images/pcb_3d_top.png) | ![PCB Bottom 3D](images/pcb_3d_bottom.png) |
 
-### Bản vẽ Layout 2D
-| Layout Mặt trước (F.Cu + Silk) | Layout Mặt sau (B.Cu + Silk) |
+| F.Cu + Silk | B.Cu + Silk |
 | :---: | :---: |
 | ![Layout Mặt trước (F.Cu + Silk)](images/pcb_top_layout.svg) | ![Layout Mặt sau (B.Cu + Silk)](images/pcb_bottom_layout.svg) |
 
 ---
 
-## Sơ đồ Nguyên lý (Schematic)
+## Sơ đồ Nguyên lý
 
-### 1. Sơ đồ khối chính (Main Schematic)
+### 1. Sơ đồ khối chính
 ![Main Schematic](images/minichinh.svg)
 
-### 2. Sơ đồ mạch phát & thu hồng ngoại (IR Emitter & Sensor)
+### 2. Sơ đồ mạch phát & thu hồng ngoại
 ![IR Emitter Schematic](images/minichinh_ir_emitter.svg)
 
 ---
